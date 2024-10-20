@@ -12,3 +12,5 @@ Inside `<html>`, you have the `<head>` section. This is where important info goe
 Next comes the `<body>`, where all your visible content, like text, images, and links, will go. Without anything in the body, the page will appear blank, even though the structure is there.
 
 To see your webpage, you can open the HTML file in your browser—either by dragging it into the browser or double-clicking it. You can also use shortcuts in editors like VSCode to quickly generate this basic structure, but it's useful to learn to write it manually first.
+
+Next we are introduced to basic HTML elements like paragraphs, headings, bold and italic text. It shows how to properly structure content using tags like `<p>` for paragraphs, `<h1>` to `<h6>` for headings, `<strong>` for bold text, and `<em>` for italics. We also learn about nesting elements for organization and how to leave comments in our code with `<!-- -->`. Plus, there’s a handy shortcut for adding comments in VSCode to make your workflow faster.
