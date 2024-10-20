@@ -4,6 +4,8 @@ HTML structures the content of a webpage, while CSS styles it with colors, fonts
 
 
 
+
+
 ELEMENTS AND TAGS
 
 HTML defines webpage structure using elements made up of tags. Tags include an opening tag (e.g., <p>) and a closing tag (e.g., </p>) that wrap content. Void elements, like <br> and <img>, don't have closing tags. Correct tag usage ensures better SEO and accessibility, known as semantic HTML.
